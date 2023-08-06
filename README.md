@@ -1,2 +1,3 @@
 # testGame
 test
+test done
